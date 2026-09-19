@@ -31,7 +31,7 @@ Questa organizzazione non è affiliata a Colossal Order, Paradox Interactive, St
 
 ### Supporto
 
-- [GitHub Sponsors — fbxmano-coder](https://github.com/sponsors/fbxmano-coder)
+- [GitHub Sponsors — MRJonam91](https://github.com/sponsors/MRJonam91)
 - [Ko-fi — mrjonam](https://ko-fi.com/mrjonam)
 - [Buy Me a Coffee — mrjonam](https://www.buymeacoffee.com/mrjonam)
 - [PayPal — manorollo](https://paypal.me/manorollo)
